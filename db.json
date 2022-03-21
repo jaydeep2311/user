@@ -1,0 +1,108 @@
+{
+  "Employee": [
+    {
+      "name": "jaydeep",
+      "gender": "M",
+      "dept": "IT",
+      "role": "developer",
+      "salary": "500",
+      "id": "2d95e95f-a673-4aa7-b33b-1c9e3ceace7a"
+    },
+    {
+      "name": "kamal",
+      "gender": "M",
+      "dept": "IT",
+      "role": "developer",
+      "salary": "600",
+      "id": "d7bb2195-2267-4ff2-835e-2cef29486c09"
+    },
+    {
+      "name": "palak",
+      "gender": "M",
+      "dept": "IT",
+      "role": "developer",
+      "salary": "700",
+      "id": "27477272-5201-4b2e-988e-e8a38127d573"
+    },
+    {
+      "name": "kk",
+      "gender": "M",
+      "dept": "IT",
+      "role": "developer",
+      "salary": "800",
+      "id": "d591fc50-4656-4d7b-93eb-e4f9f388c6af"
+    },
+    {
+      "name": "khushbu",
+      "gender": "M",
+      "dept": "Marketing",
+      "role": "junior",
+      "salary": "200",
+      "id": "6e1bbbd2-4bf4-4ef9-a620-a1d1c3e4fafb"
+    },
+    {
+      "name": "rahi",
+      "gender": "M",
+      "dept": "Marketing",
+      "role": "junior",
+      "salary": "400",
+      "id": "b6123c2d-f8f2-428c-8737-4bfe05d5f6e8"
+    },
+    {
+      "name": "rahi",
+      "gender": "M",
+      "dept": "Marketing",
+      "role": "junior",
+      "salary": "900",
+      "id": "d953306d-7265-4998-9970-47008cd6d7a3"
+    },
+    {
+      "name": "parth",
+      "gender": "M",
+      "dept": "HR",
+      "role": "junior",
+      "salary": "640",
+      "id": "b548f7c4-2834-4af8-bbcd-b4bb489e5a76"
+    },
+    {
+      "name": "pinky",
+      "gender": "M",
+      "dept": "HR",
+      "role": "junior",
+      "salary": "660",
+      "id": "7e290ae1-711e-49d3-9b41-ada799399afc"
+    },
+    {
+      "name": "krish",
+      "gender": "M",
+      "dept": "finance",
+      "role": "junior",
+      "salary": "750",
+      "id": "0b43ddd0-ab3e-41ae-9200-d2fb15cd961f"
+    },
+    {
+      "name": "Ayush",
+      "gender": "M",
+      "dept": "finance",
+      "role": "junior",
+      "salary": "780",
+      "id": "f27dc10b-f98c-48b6-b5c7-50b98e093cfb"
+    },
+    {
+      "name": "pallu",
+      "gender": "F",
+      "dept": "Hr",
+      "role": "jr",
+      "salary": "300",
+      "id": "001eb99a-a3e8-4d58-9195-5b4ea2a6fe88"
+    },
+    {
+      "name": "Akshay",
+      "gender": "M",
+      "dept": "Finance",
+      "role": "Manager",
+      "salary": "900",
+      "id": "fd43c906-cbb2-4185-b1b9-6248b10b0fbb"
+    }
+  ]
+}
